@@ -18,7 +18,7 @@ body {
     animation: 1s ease-out var(--delay) 1 transitionAnimation; /* duration/timing-function/delay/iterations/name */
     animation-fill-mode: forwards;
     background-repeat: no-repeat;
-    background-image: url('https://i.pinimg.com/originals/a5/0c/78/a50c78fa6fa3aef878a7cb9c42cf1c0e.gif'); 
+    background-image: url('background.gif');
     background-size:100% 50%;
     background-position:0% 150%;
     position: relative;
