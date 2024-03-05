@@ -21,6 +21,8 @@
   <h1>⚠️ Alcuni di questi link richiedono VPN e/o TOR. ⚠️
 </p>
 
+---
+
 ## 📝 License
 
 This project is under the MIT license. See the [LICENSE](LICENSE.md) file for more details.
