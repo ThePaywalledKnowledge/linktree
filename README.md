@@ -29,4 +29,4 @@ This project is under the MIT license. See the [LICENSE](LICENSE.md) file for mo
 
 ---
 
-Made with ❤️ by [John Emerson](https://johnggli.github.io/linktree)
+Made with ❤️ by [John Emerson](https://johnggli.github.io/linktree) and modified by ThePaywalledKnowledge.

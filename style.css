@@ -36,7 +36,7 @@ body {
 
 #userName {
     color: var(--accentColor);
-    font-size: 1rem;
+    font-size: 1.4rem;
     font-weight: bold;
     line-height: 1.25;
     display: block;
@@ -68,6 +68,42 @@ body {
     padding: 10px; /* 17px */
     text-decoration: none;
     /* transition: all .25s cubic-bezier(.08, .59, .29, .99); */
+    -webkit-tap-highlight-color: transparent;
+}
+
+.separator {
+    position: relative;
+    background-color: transparent;
+    color: red;
+    border: solid red 0px;
+    border-radius: 10px;
+    font-size: 1.25rem;
+    font-weight: bold;
+    text-align: center;
+    display: block;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    padding: 10px; /* 17px */
+    text-decoration: none;
+    /* transition: all .25s cubic-bezier(.08, .59, .29, .99); */
+    -webkit-tap-highlight-color: transparent;
+}
+
+.description {
+    position: relative;
+    background-color: transparent;
+    color: grey;
+    font-size: 0.7rem;
+    font-weight: bold;
+    text-align: center;
+    display: block;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: -9px;
+    padding: 10px; /* 17px */
+    text-decoration: none;
+    transition: all .25s cubic-bezier(.08, .59, .29, .99);
     -webkit-tap-highlight-color: transparent;
 }
 
