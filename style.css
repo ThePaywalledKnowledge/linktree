@@ -175,12 +175,24 @@ body {
 #hashtag {
     position: relative;
     color:rgb(255, 255, 255);
-    font-size: 1rem;
+    font-size: clamp(1rem, 2vw, 1.2rem);
     display: block;
     font-family: var(--font);
     width: 100%;
     text-align: center;
 }
+
+#comingsoon {
+  color:rgba(255, 255, 255, 0.311);
+  
+}
+
+#doggy {
+  width: clamp(8rem, 2vw, 16rem);
+  height: clamp(4rem, 2vw, 8rem);
+}
+
+
 
 
 .terminal_cursor {
@@ -333,7 +345,7 @@ body {
     --color-two: rgb(255, 155, 80);
     --color-three: rgb(226, 94, 62);
     --color-four: rgb(198, 61, 47);
-    font-size: clamp(1rem, 25vmin, 2rem);
+    font-size: clamp(1.5rem, 2vw, 2rem);
     background: linear-gradient(
                   90deg,
                   var(--color-one),
